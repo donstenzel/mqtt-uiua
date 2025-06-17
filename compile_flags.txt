@@ -1,0 +1,2 @@
+-Ipaho/include
+-Lpaho/lib

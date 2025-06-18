@@ -7,7 +7,7 @@
 # - [?] get rid of wrap.c / wrap.so
 #   |=> not possible? no way to get the payload associated with a message
 #       we can't get back the message because we have to pass in a
-#       pointer to which its address is written. And we can deref that
+#       pointer to which its address is written. And we can't deref that
 # - [/] remaining functions:
 #   - [-] publishMessage: doesn't make sense at the moment
 #                         because messages are kinda hard to get down

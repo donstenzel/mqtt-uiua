@@ -20,4 +20,4 @@ Currently only MQTT 3 is supported. Errors are printed in a human readable way.
 The [example](example.ua) uses [Iris](https://github.com/marcos-cat/iris)
 and [Rayguiua](https://github.com/donstenzel/rayguiua) to provide a small
 graphical user interface to send and receive messages.
-[Image of the example](image.png)
+![Image of the example](image.png)
